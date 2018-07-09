@@ -1,0 +1,6 @@
+[submodule "modules/sub-abc"]
+	path = modules/sub-abc
+	url = git@github.com:noviceng/sub-abc.git
+[submodule "modules/sub-def"]
+	path = modules/sub-def
+	url = git@github.com:noviceng/sub-def.git
